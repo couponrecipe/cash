@@ -13,4 +13,4 @@
 
 Download the [Cash App](https://cash.me/app/BDCTFBB) to save money today!
 
-![cash](https://raw.githubusercontent.com/couponrecipe/couponrecipe.github.io/master/cash.png)
+![cash](https://raw.githubusercontent.com/couponrecipe/cash/master/cash.png)
